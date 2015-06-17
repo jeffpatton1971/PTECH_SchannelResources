@@ -48,3 +48,5 @@ This Resource will allow you to set the specific Cipher Order for your system. T
 ## Sample Configuration
 
 There is a sample configuration that shows how to use these Resources on your system.
+
+https://github.com/jeffpatton1971/PTECH_SchannelResources/blob/master/DisableSSLv3.ps1
